@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  * 　　　┃　　　┃　　　　　　　　　　　
  * 　　　┃　　　┃ + + + +
  * 　　　┃　　　┃
- * 　　　┃　　　┃ +  神兽保佑Blessings from Kirin
+ * 　　　┃　　　┃ +  神兽保佑Blessings from kylin
  * 　　　┃　　　┃     no bugs forever　　
  * 　　　┃　　　┃　　+　　　　　　　　　
  * 　　　┃　 　　┗━━━┓ + +
